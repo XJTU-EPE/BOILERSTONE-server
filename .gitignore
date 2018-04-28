@@ -1,0 +1,9 @@
+
+*.pyc
+*.pyc
+*.pyc
+*.pyc
+model/.DS_Store
+redis_driver/.DS_Store
+controller/.DS_Store
+.DS_Store
